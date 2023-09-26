@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable edit_text_rounded
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_logout
+id button_register
+id email_text_view
+id email_txt
+id haveAnAccount
+id homepage_title
+id input_list
+id password_txt
+id phone_text_view
+id phone_txt
+id register_title
+id tnc
+id tnc_checkbox
+id tnc_text
+id username_text_view
+id username_txt
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Regist
+style Theme.Regist
+xml backup_rules
+xml data_extraction_rules
